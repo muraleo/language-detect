@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+    "name": "Language Detector",
+    "version": "1.0",
+    "description": "Detect language of any text in the website.",
+    "background": {
+        "scripts": [
+            "js/background.js"
+        ]
+    },
+    "content_scripts": [
+        {
+            "matches": ["*://*/*"],
+            "js": ["js/content.js"]
+        }
+    ]
+}
