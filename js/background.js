@@ -161,6 +161,7 @@ var languages = {
 	zh:	'Chinese Simplified',
 	'zh-Hant': 'Chinese Traditional',
 	zu:	'Zulu',
+	nihao: 'nihao'
 }
 
 chrome.contextMenus.create({
