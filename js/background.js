@@ -1,5 +1,5 @@
 var languages = {
-	aa:	'Afar',
+	aa:	'qwer',
 	ab:	'Abkhazian',
 	af:	'Afrikaans',
 	ak:	'Akan',
